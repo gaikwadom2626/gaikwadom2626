@@ -14,20 +14,14 @@
 </div>
 
 ---
+🧠 Who I Am
 
-### 👋 Who I Am
+I'm a **Data Analyst** who enjoys turning raw numbers into decisions people can actually use.
 
-```typescript
-const gaikwadom2626 = {
-  title: "Aspiring Data Analyst",
-  stack: ["Python", "R", "SQL", "Excel", "Power BI", "Tableau"],
-  launchedProjects: ["Library Management System", "Fish Weight Prediction"],
-  status: "Learning & building real-world data analytics projects 📈",
-  openTo: ["Data Analyst roles", "Internships", "Collaborations"],
-};
-```
+- 🛠️ **Toolkit:** Python, R, SQL, Power BI, Excel, Tableau
+- 🚀 **Projects I've launched:** House_Price_Prediction, Smartserve
+- 🔍 **Right now:** Exploring data to uncover patterns worth acting on```
 
----
 
 ### 🚀 Featured Projects
 
